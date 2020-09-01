@@ -4,9 +4,8 @@
 
 ### Week 1 (29 Aug 2020 - 02 Sep 2020):
 
-Learn the  meaning , use and important concepts about:
-1. Git and Github
-2. Emmet
-3. Heroku
-(Create Github account if there is no existing account).
+Learn the meaning, use and important notes about all the technolgies mentioned in the pic below (The idea is to have a rough idea about all the tech we use, we will learn in depth in future) 
+
+
+
 
