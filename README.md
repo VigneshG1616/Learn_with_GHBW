@@ -6,7 +6,7 @@
 
 Learn the meaning, use and important notes about all the technolgies mentioned in the pic below (The idea is to have a rough idea about all the tech we use, we will learn in depth in future) 
 
-![task week 1](./web_development.png =100x143)
+![task week 1](./web_development.png){:height="24px" width="48px"}
 
 
 
