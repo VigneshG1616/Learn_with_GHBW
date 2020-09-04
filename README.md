@@ -12,6 +12,7 @@ Learn the meaning, use and important notes about all the technologies mentioned 
 ### Week 2 (04 Sep 2020 - 10 Sep 2020):
 
 Create a webpage by using the HTML and CSS elements and properties given below: *(Note: Using of template or modifying pre-existing page is not allowed, The webpage should be coded from scratch)*   [Purpose: To deepen the concepts of HTML and CSS perfectly so that it helps us build webpages quickly and with least possible mistakes]
+
 **HTML** 
 1. Structure of HTML
 2. Links/ Anchor tag - different uses of anchor tag
