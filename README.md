@@ -7,7 +7,7 @@
 Learn the meaning, use and important notes about all the technologies mentioned in the pic below [Purpopse: To have a rough idea about all the tech we use, we will learn in depth in future] 
 
 ![task week 1](./web_development.png)
-
+***
 
 ### Week 2 (04 Sep 2020 - 10 Sep 2020):
 
@@ -28,6 +28,7 @@ Create a webpage by using the HTML and CSS elements and properties given below: 
 4. Float, Display, Positioning
 5. Image sprites
 6. Color opacity(rgba), Gradient, Shadows
+***
 
 ### Week 3 (12 Sep 2020 - 17 Sep 2020):
 **Advance CSS**
